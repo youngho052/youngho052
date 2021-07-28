@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/react-61dafb.svg?&style=for-the-badge&logo=react&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/html-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/css3-f43059.svg?&style=for-the-badge&logo=css3&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/javascript-f7df1e.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/typescript-f7df1e.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/>
 </div>
 
 
