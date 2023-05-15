@@ -13,9 +13,10 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white&backgroundColor=black%22" height="25" />
   <img src="https://img.shields.io/badge/javascript-f7df1e.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white&backgroundColor=black%22" height="25" />
-  <img src="https://img.shields.io/badge/AWS%20Amplify-FF9900?style=flat-square&logo=AWS%20Amplify&logoColor=white&backgroundColor=black%22" height="25/>
-<!--   <img src="https://img.shields.io/badge/html-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/css3-f43059.svg?&style=for-the-badge&logo=css3&logoColor=white" height="25"/> -->
+  <img src="https://img.shields.io/badge/AWS%20Amplify-FF9900?style=flat-square&logo=AWS%20Amplify&logoColor=white&backgroundColor=black%22" height="25"/>
+                                                                                                                                                     
+<!--   <img src="https://img.shields.io/badge/html-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" height="25"/> -->
+<!--   <img src="https://img.shields.io/badge/css3-f43059.svg?&style=for-the-badge&logo=css3&logoColor=white" height="25"/>   -->
 </div>
 
 
